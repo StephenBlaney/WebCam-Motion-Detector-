@@ -1,4 +1,4 @@
-# WebCam-Motion-Detector-
+# WebCam-Motion-Detector-Using Open Cv
 
 This program dectects moving objects in front of your computers webcam. It then proceeds
 to record the time that object entered the web cam frame and when it exists. A green rectangle 
